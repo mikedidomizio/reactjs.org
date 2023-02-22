@@ -41,7 +41,12 @@ June 27th, 2023. Tel Aviv, Israel
 ### React Nexus 2023 {#react-nexus-2023}
 July 07 & 08, 2023. In-person in Bangalore, India
 
-[Website](https://reactnexus.com/) - [Twitter](https://twitter.com/ReactNexus) - [Linkedin](https://www.linkedin.com/company/react-nexus) - [YouTube](https://www.youtube.com/reactify_in)
+[Website](https://reactnexus.com/) - [Twitter](https://twitter.com/ReactNexus) - [Linkedin](https://www.linkedin.com/company/react-nexus) - [YouTube](https://www.youtube.com/reactify_in).  
+
+### React Rally {#react-rally-2023}
+August 17 & 18, 2023. Salt Lake City, Utah
+
+[Website](https://www.reactrally.com/) - [Twitter](https://twitter.com/ReactRally) - [Youtube](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw)
 
 ### React India 2023 {#react-india-2023}
 Oct 5 - 7, 2023. In-person in Goa, India (hybrid event) + Oct 3 2023 - remote day 
@@ -86,7 +91,7 @@ September 29 - October 1, 2022. In-person in Alicante, Spain + remote (hybrid ev
 [Website](https://reactalicante.es/) - [Twitter](https://twitter.com/reactalicante) - [Facebook](https://www.facebook.com/ReactAlicante) - [Videos](https://www.youtube.com/channel/UCaSdUaITU1Cz6PvC97A7e0w)
 ### React India 2022 {#react-india-2022}
 September 22 - 24, 2022. In-person in Goa, India + remote (hybrid event)
-
+reac
 [Website](https://www.reactindia.io) - [Twitter](https://twitter.com/react_india) - [Facebook](https://www.facebook.com/ReactJSIndia) - [Videos](https://www.youtube.com/channel/UCaFbHCBkPvVv1bWs_jwYt3w)
 
 ### React Finland 2022 {#react-finland-2022}
